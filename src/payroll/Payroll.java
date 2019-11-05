@@ -8,7 +8,7 @@ package payroll;
 /** This code calculates the salary including bonus.
  * bonus is 10% of salary and applied to the employees whose salary is <=3000
  * @author srinivsi
- */
+ RAMAN PART_B EXAM*/
 public class Payroll 
 {
 
