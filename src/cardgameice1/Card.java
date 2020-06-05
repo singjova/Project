@@ -47,4 +47,8 @@ public static final String[] SUITS={"diamonds","clubs","spades","hearts"};
     public void setSuit(String suits){
         this.suits = suits;
     }
+
+    void setSuits(int i) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
