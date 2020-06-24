@@ -7,7 +7,8 @@ package payroll;
 
 /** This code calculates the salary including bonus.
  * bonus is 10% of salary and applied to the employees whose salary is <=3000
- * @author srinivsi
+ *  If salary is less than or equal to 3000,calculate a new salary with bonus.
+ @author srinivsi
  */
 public class Payroll 
 {
@@ -25,7 +26,7 @@ public class Payroll
             emp=givenUser;
                  
         }
-         /** create the method for calculating salary including bonus.Bonus is 10% of salary */
+      
      
     
     
